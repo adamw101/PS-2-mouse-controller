@@ -18,6 +18,5 @@ Cursor position is calculated using the received data.
 - **HDL:** VHDL
 - **FPGA:** ZYNQ XC7Z010(ZYBO Z7-10)
 - **Toolchain:** AMD Vivado Design Suite
-- 
 ## About
 This project was created as a part of the university course: Zaawansowane techniki programowania układów FPGA(ang. Advanced FPGA proggraming techniques ) at Warsaw University of Technology.
