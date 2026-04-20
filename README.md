@@ -1,4 +1,4 @@
-#PS/2 mouse controller
+# PS/2 mouse controller
 
 ## Overview
 PS2_PMOD module implements a computer mouse controller.
